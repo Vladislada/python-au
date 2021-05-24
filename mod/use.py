@@ -1,4 +1,4 @@
 
-import Modul
+import modul
 
-print(Modul.gcd(255, 585))
+print(modul.gcd(255, 585))
